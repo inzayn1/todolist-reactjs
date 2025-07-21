@@ -1,6 +1,7 @@
 # ✅ To-Do List App
 
 A simple and responsive To-Do List web application that helps users manage daily tasks. Users can add, delete, and mark tasks as completed. Built with modern web technologies.
+<img width="1896" height="912" alt="Image" src="https://github.com/user-attachments/assets/ae510511-713d-4907-b62a-28cf5579aa76" />
 
 ## 🌐 Live Demo
 
