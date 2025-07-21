@@ -1,3 +1,17 @@
+# ✅ To-Do List App
+
+A simple and responsive To-Do List web application that helps users manage daily tasks. Users can add, delete, and mark tasks as completed. Built with modern web technologies.
+
+## 🌐 Live Demo
+
+[View Live App](https://todolistreact-aman.netlify.app/)
+## 🧰 Features
+
+- Add new tasks
+- Mark tasks as complete/incomplete
+- Delete individual tasks
+- Clear all completed tasks
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
